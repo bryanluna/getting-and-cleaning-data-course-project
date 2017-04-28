@@ -7,6 +7,6 @@ Information from the study can be found [here](http://archive.ics.uci.edu/ml/dat
 
 The data set pulled into the formula can be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
 
-After running the script, the code will  create a '.txt file' called 'tidydata.txt' which is a tidy data set with the average of each variable for each activity and each subject.
+After running the script, the code will  create a `.txt file` called `tidydata.txt` which is a tidy data set with the average of each variable for each activity and each subject.
 
-Additional information regarding the the variables, the data, and data cleaning transformations can be found in the file 'CodeBook.md'.
+Additional information regarding the the variables, the data, and data cleaning transformations can be found in the file `CodeBook.md`.
