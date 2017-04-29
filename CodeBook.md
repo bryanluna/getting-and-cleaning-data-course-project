@@ -80,3 +80,11 @@ The final output from the code is a `.txt` file `tidydata.txt`
 * `frequencyBodyGyroscopeMagnitude-std()`
 * `frequencyBodyGyroscopeJerkMagnitude-mean()`
 * `frequencyBodyGyroscopeJerkMagnitude-std()`
+
+## Activities
+* `WALKING`
+* `WALKING_UPSTAIRS`
+* `WALKING_DOWNSTAIRS`
+* `SITTING`
+* `STANDING`
+* `LAYING`
